@@ -1,0 +1,6 @@
+link tutorial vsc jupyter notebook: https://www.youtube.com/watch?v=xS5ZXOC4e6A&ab_channel=TheCodeCity
+link tutorial Kaggle: https://www.youtube.com/playlist?list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW
+
+notes: 
+- dataset saat ini akan sedikit berbeda dengan hands on
+- jika ada masalah atau kebingungan silahkan kontak id line, maull04
